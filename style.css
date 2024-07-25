@@ -1,0 +1,168 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+   
+    
+}
+
+a{
+    text-decoration: none;
+}
+.a-1,.a-2,.a-3,.a-4{
+    color: white;
+    position: relative;
+    top: 25px;
+}
+
+.a-4:hover{
+    color: #FF9C28;
+
+    position: relative;
+    top: 25px;
+}
+
+.a-3:hover{
+    color: #FF9C28;
+
+    position: relative;
+    top: 25px;
+}
+
+.a-2:hover{
+    color: #FF9C28;
+
+    position: relative;
+    top: 25px;
+}
+
+.a-1:hover{
+    color: #FF9C28;
+
+    position: relative;
+    top: 25px;
+}
+
+
+.gg{
+    background: #272C3D;
+
+    width: 100%;
+    height: 70px;
+}
+
+.row-2{
+    display: flex;
+    gap: 200px;
+}
+
+.in{
+    margin-top: 20px;
+    width: 190px;
+height: 30px;
+background: #404864;
+color: white;
+border-radius: 5px;
+
+
+}
+
+.row-3{
+    display: flex;
+    gap: 200px;
+}
+#region{
+    background: #00000080;
+color: white;
+    width: 130px;
+height: 30px;
+margin-top: 22px;
+border-radius: 5px ;
+
+
+}
+
+.cs{
+    width: 100%;
+    ;
+}
+.swiper {
+    width: 1000px;
+    height: 300px;
+    margin-top: 200px;
+   }
+   
+   .swiper-slide {
+     text-align: center;
+     font-size: 18px;
+     background: #fff;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+   img{
+       width: 100%;
+       height: 100%;
+   }
+
+   .con{
+    background: #272C3D;
+    width: 1100px;
+    height: 900px;
+    margin-left: 200px;
+    margin-top: 200px;
+
+   }
+   .h1-1{
+    color: white;
+    margin-top: 30px;
+   
+   }
+
+   .images{
+    width: 400px;
+height: 234px;
+top: 964px;
+left: 130px;
+gap: 0px;
+opacity: 0px;
+
+   }
+   .rww{
+    display: flex;
+    gap: 150px;
+    margin-top: 150px;
+    margin-left: 30px;
+   }
+   .p-1{
+    color: white;
+   }
+
+   .rw{
+    display: flex;
+    gap: 150px;
+    margin-top: 150px;
+    margin-left: 30px;
+   }
+  
+
+   .ggg{
+    background: #272C3D;
+    margin-top: 20px;
+    width: 100%;
+    height: 70px;
+}
+
+  
